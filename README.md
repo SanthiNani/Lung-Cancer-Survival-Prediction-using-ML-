@@ -92,6 +92,7 @@ Treatment Type	Chemotherapy / Surgery / etc.
 
 
 # 👨‍💻 Author
-Syam Doppasani
+Santhi Raju Peddapati
 
-For freelance work or collaborations: syamdoppasani@gmail.com
+For freelance work or collaborations: santhinani364@gmail.com
+
